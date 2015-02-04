@@ -11,5 +11,5 @@ names(poker_vector) <- days_vector
 total_poker <- sum(poker_vector)
 
 # Up to you now. Assign the correct values to: 
-total_roulette <- sum(total_roulette)
+total_roulette <- sum(roulette_vector)
 total_week <- total_poker + total_roulette
